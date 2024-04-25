@@ -1,0 +1,2 @@
+# blastinsight_module2
+blastinsight第二个模块中的connect按钮
